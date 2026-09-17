@@ -1,0 +1,143 @@
+{
+  "source": "04_Serien-Uebersicht_Kongress-Matrix.md.pdf",
+  "sourceDate": "2026-09-10",
+  "wave1": [
+    {
+      "id": "sanft",
+      "name": "Sanft starten",
+      "image": "movement",
+      "tag": "WELLE 1 · IN PRODUKTION",
+      "text": "Atemgrundlagen · Gelenke mobilisieren · Stand und Balance · Sicher auf und von der Matte · Angepasster Sonnengruß · Hüfte · Schultern und Nacken · Rückenbasics · Entspannen · Erste eigene Praxis",
+      "ids": [
+        "sanft-01",
+        "sanft-02",
+        "sanft-03",
+        "sanft-04",
+        "sanft-05",
+        "sanft-06",
+        "sanft-07",
+        "sanft-08",
+        "sanft-09",
+        "sanft-10"
+      ],
+      "teacher": "Nina",
+      "duration": null
+    },
+    {
+      "id": "reset",
+      "name": "Nervensystem-Reset",
+      "image": "rest",
+      "tag": "WELLE 1 · IN PRODUKTION",
+      "text": "Das Nervensystem kennenlernen · Beruhigende Atmung · Progressive Muskelentspannung · Abendpraxis · Vagus-Übungen · Bodyscan und Autogenes Training · Abendritual",
+      "ids": [
+        "reset-01",
+        "reset-02",
+        "reset-03",
+        "reset-04",
+        "reset-05",
+        "reset-06",
+        "reset-07"
+      ],
+      "teacher": "Simone",
+      "duration": null
+    },
+    {
+      "id": "schlaf",
+      "name": "Besser schlafen",
+      "image": "rest",
+      "tag": "WELLE 1 · IN PRODUKTION",
+      "text": "Abend-Yoga · Yoga Nidra · kurz · Yoga Nidra · lang · Atemtechniken im Liegen · Schultern und Nacken am Abend",
+      "ids": [
+        "schlaf-01",
+        "schlaf-02",
+        "schlaf-03",
+        "schlaf-04",
+        "schlaf-05"
+      ],
+      "teacher": "Simone",
+      "duration": null
+    },
+    {
+      "id": "morgen",
+      "name": "15-Minuten-Morgenroutine",
+      "image": "movement",
+      "tag": "WELLE 1 · IN PRODUKTION",
+      "text": "Sanft wach werden · Energie · Rücken mobilisieren · Balance und Fokus · Herz öffnen · Hüfte und Beine · Morgen-Flow",
+      "ids": [
+        "morgen-01",
+        "morgen-02",
+        "morgen-03",
+        "morgen-04",
+        "morgen-05",
+        "morgen-06",
+        "morgen-07"
+      ],
+      "teacher": "Nina",
+      "duration": 15
+    },
+    {
+      "id": "ruecken",
+      "name": "Starker Rücken 50+",
+      "image": "strength",
+      "tag": "WELLE 1 · IN PRODUKTION",
+      "text": "Haltungscheck · Wirbelsäule mobilisieren · Rückenfreundlich kräftigen · Faszien und Entlastungshaltungen · Rücken-Flow",
+      "ids": [
+        "ruecken-01",
+        "ruecken-02",
+        "ruecken-03",
+        "ruecken-04",
+        "ruecken-05"
+      ],
+      "teacher": "Simone",
+      "duration": null
+    }
+  ],
+  "wave2": [
+    {
+      "name": "Balance im Wandel",
+      "teacher": "Nina · 2 Gast-Einheiten mit Simone",
+      "count": "15–18 Videos · Umfang in Abstimmung",
+      "theme": "Wechseljahre & Hormone",
+      "text": "Nervensystem & Balance, Beweglichkeit, Kraft/Muskeln/Knochen, Alltag und Mindset. Simone: Bodyscan/Tiefenentspannung und Becken/Hüfte/Beckenboden."
+    },
+    {
+      "name": "Knochen-stark",
+      "teacher": "Nina",
+      "count": "7 Videos geplant",
+      "theme": "Knochen & Gelenke",
+      "text": "Aufrichtung, Kraft und Stand – mit Balance, Armen, Schultern und Handgelenken."
+    },
+    {
+      "name": "Bewegte Pause",
+      "teacher": "Nina",
+      "count": "5 × 10 Minuten geplant",
+      "theme": "Morgen & Energie / Innere Balance",
+      "text": "Bewegung für den Arbeitstag, ohne Umziehen. Drei Einheiten sind vollständig auf dem Stuhl geplant."
+    },
+    {
+      "name": "Marma-Yoga: Finde deine innere und äußere Balance mit den sechs Spannungsbögen",
+      "teacher": "Simone",
+      "count": "6 Videos geplant",
+      "theme": "Innere Balance",
+      "text": "Körperwahrnehmung, Marma-Punkte, Herzraum, Bauchraum und Abendpraxis."
+    },
+    {
+      "name": "Meditation lernen",
+      "teacher": "Simone",
+      "count": "7 Videos geplant",
+      "theme": "Innere Balance",
+      "text": "Sitz und Atem, Atem zählen, Bodyscan, Umgang mit Ablenkung und Metta-Basics."
+    },
+    {
+      "name": "Yoga für einen bewussten und kraftvollen Beckenboden",
+      "teacher": "Simone",
+      "count": "7 Videos geplant",
+      "theme": "Beckenboden",
+      "text": "Anatomie, Wahrnehmung, Aktivierung, Zusammenspiel mit dem Atem und Alltagspraxis."
+    }
+  ],
+  "unitTitles": "Derived from documented topics, not final approved video titles",
+  "wave1Production": "Ready for launch, explicitly confirmed by user on 2026-09-17",
+  "wave1CustomerStatus": "available",
+  "wave2CustomerStatus": "coming soon"
+}

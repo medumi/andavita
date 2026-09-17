@@ -10,7 +10,7 @@ Neue Inhalte: Startseite, Mediathek und Benachrichtigungen erklären ausdrückli
 
 ## Inhaltlicher Stand
 
-Nina und Simone sowie sieben Themenwelten stammen aus der Projektakte. Die konkreten Kurstitel, Dauern, Programmzusammenstellungen und Wochenaktivitäten sind Beispielinhalte und keine bestätigte Launch-Kursliste. Diese Liste wurde beim Auftraggeber angefragt und muss für den Launch ersetzt werden. Reale Kursaufnahmen, Benutzerkonten, Bezahlung, Synchronisierung und Push-Zustellung sind nicht Teil der Designvorschau. Der Player zeigt die Bedienung mit Kursbild und Demo-Zeitablauf; dies ist im Player gekennzeichnet. Einstellungen, Merkliste und Fortschritt werden nur im jeweiligen Browser gespeichert.
+Nina und Simone sowie sieben Themenwelten stammen aus der Projektakte. Die fünf Launch-Serien und 34 Videos wurden aus der Serienmatrix übernommen. Der Auftraggeber bestätigt Welle 1 als fertig zum Launch; Welle 2 erscheint als kommend. Einzeleinheitentitel sind aus den Schwerpunkten abgeleitet. Nur die Morgenroutine hat in der Quelle bestätigte Dauern (je 15 Minuten). Wochenaktivitäten sind weiterhin Demonstrationsdaten. Reale Kursaufnahmen, Benutzerkonten, Bezahlung, Synchronisierung und Push-Zustellung sind nicht Teil der Designvorschau. Der Player zeigt die Bedienung mit Kursbild und Demo-Zeitablauf; dies ist im Player gekennzeichnet. Einstellungen, Merkliste und Fortschritt werden nur im jeweiligen Browser gespeichert.
 
 ## Gestalterische Recherche
 
@@ -29,3 +29,6 @@ Verwendete Briefings: 1. Frau um 50 in sanfter sitzender Seitdehnung, grüne Spo
 `python3 -m http.server 8787 --bind 127.0.0.1 --directory dist`
 
 Kein Build-Schritt erforderlich. Statische Website in `dist/`; Navigation über Hash-Routen. Schriften kommen von Google Fonts mit System-Fallback.
+
+## Erweiterung
+Öffentliche Website: dist/index.html. Browser-Mitgliederbereich: dist/app.html. Videovorlagen mit Download: dist/studio.html. Preise: 14,90 Euro/Monat; 71,40 Euro/6 Monate; 99 Euro/Jahr. Noch kein Checkout und keine echten Konten. Technischer Plan, Anbieter-Kostenvergleich und Kursfilter-Konzept: PLATTFORM-KONZEPT.md.
