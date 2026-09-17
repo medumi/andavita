@@ -9,3 +9,7 @@ Namen und Funktion in templates.json austauschen. Renderer: python3 render.py --
 Voraussetzungen: Python 3, Pillow und ffmpeg mit libx264 und prores_ks. Die Fontpfade verwenden die auf macOS mitgelieferten Arial- und Georgia-Schriften. Auf anderen Systemen die Fontpfade in render.py auf vorhandene, lizenzierte Schriften umstellen.
 
 Die Web-Vorschau kann eine passende Konfigurationsdatei speichern. Ihre Bearbeitung verändert nicht rückwirkend die heruntergeladenen Videos; für neue Videos den Renderer erneut ausführen. Rolle von Nina ist eine Beispielbeschreibung, keine zertifizierte Qualifikation.
+
+Version 2: Blume über dem Markenschriftzug; Sicherheitstafel 22 s. Kombiniertes Intro inklusive Sicherheit: 27 s. Die mitgelieferte flower.png ist aus dem Andavita-SVG exportiert und wird vom Renderer benötigt.
+
+Sicherheitstext: Entwurf zur fachlichen und rechtlichen Prüfung, kein pauschaler Haftungsverzicht. Kursspezifische Hinweise müssen passend zur Praxis ergänzt werden. Grundlage: https://www.nccih.nih.gov/health/yoga-effectiveness-and-safety und https://www.gesetze-im-internet.de/bgb/__309.html
