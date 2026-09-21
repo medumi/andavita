@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Andavita</string>
+    <string name="title_activity_main">Andavita</string>
+    <string name="package_name">com.andavita.preview</string>
+    <string name="custom_url_scheme">com.andavita.preview</string>
+</resources>

@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {buildReminderPlan,ownsReminder,TEST_ID} from '../src/reminder-plan.mjs';
+const now=new Date(2026,8,21,7,0);const settings={enabled:true,days:[1,3,5],time:'08:00',practicedToday:false};
+let plan=buildReminderPlan(settings,now);
+assert.equal(plan.length,24);assert.equal(new Set(plan.map(n=>n.id)).size,24);
+assert(plan.every(n=>[1,3,5].includes(n.schedule.at.getDay())&&n.schedule.at.getHours()===8&&n.schedule.at>now));
+const skip=buildReminderPlan({...settings,practicedToday:true},now);assert.equal(skip.length,23);assert(skip.every(n=>n.extra.date!=='2026-09-21'));
+assert.equal(buildReminderPlan({...settings,enabled:false},now).length,0);
+assert.equal(buildReminderPlan({...settings,days:[]},now).length,0);
+assert(buildReminderPlan({...settings,days:[0,1,2,3,4,5,6]},now).length<64);
+assert.equal(buildReminderPlan({...settings,days:[1,1,3,5]},now).length,24);
+assert.throws(()=>buildReminderPlan({...settings,time:'99:50'},now));
+assert(ownsReminder({id:TEST_ID}));assert(!ownsReminder({id:1}));
+const dst=buildReminderPlan({...settings,days:[0,1,2,3,4,5,6]},new Date(2026,9,24,7));assert(dst.every(n=>n.schedule.at.getHours()===8));
+console.log('PASS: day selection, unique IDs, suppression, off, iOS capacity, DST wall time and ownership');
