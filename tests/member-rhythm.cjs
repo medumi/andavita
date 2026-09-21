@@ -1,0 +1,26 @@
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const vm=require('node:vm');
+const source=fs.readFileSync('dist/app.js','utf8');
+const prefix=source.slice(0,source.indexOf("$('#search-icon').innerHTML"));
+const context=vm.createContext({localStorage:{getItem:()=>null,setItem(){}},document:{querySelector:()=>({})},setTimeout,clearTimeout,clearInterval});
+vm.runInContext(prefix,context);
+vm.runInContext(`
+state.days=[1,3,5];state.reminders=true;state.time='08:00';
+const mon=new Date(2026,8,21,8,1);
+if(!reminderDue(mon))throw Error('Monday reminder missing');
+if(reminderDue(new Date(2026,8,22,9)))throw Error('Reminder on unselected day');
+if(reminderDue(new Date(2026,8,21,7,59)))throw Error('Reminder early');
+state.activity[localDate(mon)]=60;
+if(reminderDue(mon))throw Error('Reminder after activity');
+state.activity={};state.reminderSeen=localDate(mon);
+if(reminderDue(mon))throw Error('Duplicate reminder');
+state.reminderSeen='';
+state.history=['morgen-01','sanft-01'];state.positions={'morgen-01':900,'sanft-01':20};
+if(unfinished()[0].id!=='sanft-01')throw Error('Completed course selected');
+state.positions['morgen-01']=123;
+if(unfinished()[0].id!=='morgen-01'||position(courses.find(c=>c.id==='morgen-01'))!==123)throw Error('Resume order or seconds lost');
+state.history=[];if(unfinished().length)throw Error('Invented history');
+state.days=[];if(nextReminder(mon)!==null)throw Error('Reminder without days');
+`,context);
+console.log('PASS: selected days, timing, daily suppression, deduplication, resume order/position/completion and empty state');

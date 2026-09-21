@@ -32,3 +32,11 @@ Kein Build-Schritt erforderlich. Statische Website in `dist/`; Navigation über 
 
 ## Erweiterung
 Öffentliche Website: dist/index.html. Browser-Mitgliederbereich: dist/app.html. Videovorlagen mit Download: dist/studio.html. Preise: 14,90 Euro/Monat; 71,40 Euro/6 Monate; 99 Euro/Jahr. Noch kein Checkout und keine echten Konten. Technischer Plan, Anbieter-Kostenvergleich und Kursfilter-Konzept: PLATTFORM-KONZEPT.md.
+
+## Mitgliederbereich: Rhythmus und Wiedereinstieg (21.09.2026)
+
+- Profil: Wochentage, Ortszeit und Erinnerungen an/aus; Vorschau der Nachricht.
+- Wochenkarte zeigt ausgewählte Tage und lokale Demo-Aktivität. Ein Übungstag zählt nach 60 Sekunden abgespielter Demo oder Abschluss; bloßes Springen im Player zählt nicht.
+- Erinnerung im geöffneten, sichtbaren Mitgliederbereich ab der gewählten Zeit, einmal pro Tag, nur an ausgewählten Tagen und ohne bereits gezählte Aktivität. Keine Zustellung bei geschlossener App; Push-Infrastruktur und geräteübergreifendes Konto bleiben offen.
+- Startseite priorisiert die zuletzt geöffnete unvollständige Einheit. Position in Sekunden wird beim Abspielen, Springen und Verlassen lokal gespeichert. Abgeschlossene Videos werden nicht zum Fortsetzen vorgeschlagen.
+- Prüfung: Tage/Uhrzeit, Unterdrückung und Deduplizierung, fortsetzbare Reihenfolge und Abschluss mit `node tests/member-rhythm.cjs`; Speichern, Neuladen und Fortsetzen sowie mobile Ansicht im Browser geprüft.
