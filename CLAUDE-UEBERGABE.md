@@ -32,7 +32,9 @@ Lokaler Projektordner: `/Users/micha/ChatGPT/andavita`.
 - `.openai/hosting.json`: bestehende Sites-Zuordnung; nicht versehentlich ersetzen.
 - `tests/member-rhythm.cjs`: Tests für Wochenplan und Fortsetzen.
 
-Git ist lokal initialisiert. Beim Check am 24.09.2026 war kein Git-Remote konfiguriert. Letzter Commit: `617ee18`. README ist geändert; OFFENE-PUNKTE.md, exports/, redaktion/ und video-produktion/ sind bislang unversioniert. Diese Übergabe ist ebenfalls neu. GitHub-Anbindung ist angefragt; noch kein GitHub-Repository erstellt oder Push durchgeführt. Zielkonto/Organisation noch klären. Empfehlung: privates Repository `andavita`.
+GitHub-Repository: https://github.com/medumi/andavita (öffentlich). Git-Remote `origin`: `https://github.com/medumi/andavita.git`, Branch `main`. Beim erneuten Abgleich am 24.09.2026 war Commit `19685d20d86d583ff7c72805de4e36bc6e823a9a` bereits lokal und auf GitHub vorhanden. Website, native App-Projekte, diese Übergabe, Konzept, offene Punkte sowie `docs/marke.md` und `docs/design.md` sind versioniert.
+
+Interne Redaktionsunterlagen unter `redaktion/` und Exportpakete unter `exports/` sind ausdrücklich vom öffentlichen Repository ausgeschlossen. Verweise darauf in dieser Datei beziehen sich auf lokale Unterlagen; Claude erhält sie durch Klonen nicht automatisch. Keine internen Unterlagen ohne Freigabe hinzufügen.
 
 ## 4. Was tatsächlich funktioniert
 
@@ -133,4 +135,4 @@ Mobile: Node >=22, in mobile/ `npm ci`, `npm run sync`, danach `npm run android:
 
 Vor GitHub-Push: endgültiges Zielkonto bestätigen, unversionierte Dokumente bewusst auswählen, Geheimnisse und personenbezogene interne Unterlagen prüfen. Build-Verzeichnisse, node_modules, lokale Android-Pfade, APK/Simulator-Builds und große Rohvideos nicht blind committen. Exporte/Medien nach Größe und Bedarf separat ausliefern. Ein privates Repository schützt keine versehentlich veröffentlichten Zugangsdaten.
 
-Sinnvolle nächste Schritte: GitHub-Ziel und Verbindung abschließen; Quellcode und freigegebene Projektunterlagen versionieren; Hostingablauf mit Administrator festlegen; Unternehmensentscheidung zu Konten/E-Mail abwarten; danach Backend, Streaming und Zahlung gemeinsam planen. Keine neuen kostenpflichtigen Dienste oder Store-Veröffentlichungen ohne Auftrag.
+Sinnvolle nächste Schritte: Claude Zugriff auf das vorhandene Repository geben und vor Änderungen den aktuellen Branch-Stand laden; Hostingablauf mit Administrator festlegen; Unternehmensentscheidung zu Konten/E-Mail abwarten; danach Backend, Streaming und Zahlung gemeinsam planen. Keine neuen kostenpflichtigen Dienste oder Store-Veröffentlichungen ohne Auftrag.
