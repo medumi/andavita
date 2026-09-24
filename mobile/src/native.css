@@ -1,8 +1,0 @@
-/* Space for device cutouts and the home indicator. Web UI stays shared. */
-html { background: #fbfaf7; }
-body { padding-top: env(safe-area-inset-top, 0px); }
-@media (max-width: 760px) {
-  .sidebar { padding-bottom: calc(10px + env(safe-area-inset-bottom, 0px)); }
-  .shell { padding-bottom: env(safe-area-inset-bottom, 0px); }
-}
-dialog { max-height: calc(100dvh - env(safe-area-inset-top, 0px) - env(safe-area-inset-bottom, 0px) - 32px); }
