@@ -237,9 +237,9 @@ Dieses Repo ist der gemeinsame Stand. **`main` ist geschützt** — jede Änderu
 
 - Neue Erkenntnis oder Entscheidung → in die passende Datei, nicht in einen Chatverlauf
 - Offener Punkt → nach [OFFENE-PUNKTE.md](../../OFFENE-PUNKTE.md), immer mit Zuständigkeit
-- Das Repo ist **öffentlich**: keine Zugangsdaten, keine Vertragsunterlagen, keine
-  personenbezogenen internen Dokumente. Was einmal gepusht ist, bleibt in der Historie
-  lesbar, auch nach dem Löschen.
+- Das Repo ist **privat** und nur für eingeladene Personen sichtbar. Interne Zahlen,
+  Kalender und Namen dürfen hier stehen. Zugangsdaten und Schlüssel trotzdem nie —
+  die gehören in keinen Git-Verlauf, egal wie geschützt er ist.
 
 ---
 
@@ -254,8 +254,8 @@ Dieses Repo ist der gemeinsame Stand. **`main` ist geschützt** — jede Änderu
 | Markenanmeldung nach anwaltlicher Prüfung | Kanzlei, dann Michael |
 | Botschaftshaus und USP mit dem Team abstimmen | Michael, Patrick, Nina, Simone |
 | Echte Kursvideos einbinden | Produktion |
-| Rechtstexte, Widerruf, Kündigungsbedingungen | Recht (intern benannt) |
-| Website- und Angebotstexte freigeben | Redaktion (intern benannt) |
+| Rechtstexte, Widerruf, Kündigungsbedingungen | Mathias |
+| Website- und Angebotstexte freigeben | Nicole Doser |
 
 Reihenfolge ist nicht beliebig: **Konten und Zahlungsanbieter blockieren alles
 Weitere**, weil Login, Freischaltung und geräteübergreifender Fortschritt daran hängen.

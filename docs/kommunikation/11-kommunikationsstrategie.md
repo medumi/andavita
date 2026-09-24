@@ -24,7 +24,7 @@ Wer nur einen Satz behalten soll: **„Hier musst du nichts beweisen.“**
 | Befund aus der Tabelle | Was er für Andavita bedeutet |
 |---|---|
 | **Vier Portale mit unterschiedlichem Publikum:** Medumio (Gesundheit/Nährstoffe), Veda360 (Psyche, Spiritualität, Ayurveda), CURIVO (medizinisch, chronische Erkrankungen), INTL | Eine Botschaft passt nicht überall. Drei Tonlagen: **Wissen** (Medumio), **Innenwelt** (Veda360), **Behutsamkeit** (CURIVO) |
-| **MC-Auswertung:** Teilnehmerzahlen und Conversion je Masterclass *(Zahlen intern — Tabelle Kongresse_Kampagnen_Kollegen, Blatt MC Auswertung)* | Entspannungsnahe Themen konvertieren am stärksten. Das ist ein **Datenargument für Michaels Entspannungs-/Meditations-Masterclasses** |
+| **MC-Auswertung:** Ø ~3.350 Teilnehmende pro Masterclass, Ø ~5,4 % Conversion auf den Premium-Zugang. **Spitzenreiter ist Hypnose (Veda360) mit 13,3 %**, Wechseljahre liegt bei 5,9 % | Entspannungsnahe Themen konvertieren am stärksten. Das ist ein **Datenargument für Michaels Entspannungs-/Meditations-Masterclasses** |
 | **Video Views & Rabattanwendungen:** Speaker-Videos laufen seit Jahren mit **persönlichen Codes** (Muster *Name15Thema*) und werden nach Views und Umsatz ausgewertet | Das Tracking für die Andavita-Expertenvideos existiert schon als Prozess. Wir übernehmen ihn eins zu eins |
 | **Kategorien Kongresse:** Zu den Kongressen gibt es (etabliert seit 2023) jeweils eine **Viktilabs-Kategorieseite mit 15-%-Code** | Jede dieser Seiten bekommt ein Andavita-Modul. Das ist ein Kanal, der schon existiert und nichts extra kostet |
 | **Newsletter-Slots:** Neben den Kongressen laufen regelmäßig **„Inforeihe“** und **„Wissensserie“**, etwa alle zwei Wochen, meist samstags | Feste Plätze für Andavita im Newsletter, ohne neue Aussendungen |
@@ -39,10 +39,10 @@ Der Kern bleibt: **Frauen 45+ in der Lebensmitte**. Um diesen Kern legen wir Rin
 | Ring | Wer | Einstieg über | Botschaft | Kanal aus der Tabelle |
 |---|---|---|---|---|
 | **① Die Vorboten** | Frauen **40–47**, bei denen der Wandel sich gerade ankündigt | Nervensystem-Reset → *Balance im Wandel* (Nebel) | „Bevor der Wandel dich überrascht: Lerne deinen Körper jetzt neu kennen.“ | Frauenhormone, Hormone & Stoffwechsel, Endometriose, Haarausfall Ade |
-| **② Die Pflegenden** | Frauen **und Männer**, die Angehörige pflegen; chronisch erschöpft, keine Zeit | Besser schlafen, Bewegte Pause, Audio-only | „Wer für andere sorgt, darf auch 10 Minuten für sich haben.“ | **Pflege-Kongress**, Alzheimer & Demenz, *Die neue Erschöpfungspandemie* |
-| **③ Die Innenwelt-Suchenden** | Veda360-Publikum: hochsensibel, ängstlich, auf der Suche nach Ruhe und Tiefe, altersmäßig oft breiter | Meditation lernen, Marma-Yoga, Nervensystem-Reset | „Ruhe ist keine Belohnung. Sie ist eine Praxis.“ | VEDA Hochsensibel, Ängste & Panikattacken, Inneres Kind, Trauma, Hypnose-MC |
+| **② Die Pflegenden** | Frauen **und Männer**, die Angehörige pflegen; chronisch erschöpft, keine Zeit | Besser schlafen, Bewegte Pause, Audio-only | „Wer für andere sorgt, darf auch 10 Minuten für sich haben.“ | **Pflege-Kongress (02.10.)**, Alzheimer & Demenz, *Die neue Erschöpfungspandemie* (04.12.) |
+| **③ Die Innenwelt-Suchenden** | Veda360-Publikum: hochsensibel, ängstlich, auf der Suche nach Ruhe und Tiefe, altersmäßig oft breiter | Meditation lernen, Marma-Yoga, Nervensystem-Reset | „Ruhe ist keine Belohnung. Sie ist eine Praxis.“ | VEDA Hochsensibel (16.10.), Ängste & Panikattacken (04.12. / 22.01.), Inneres Kind, Trauma, Hypnose-MC |
 | **④ Die Männer 50+** | Männer, die über Rücken, Knochen, Blutdruck, Cholesterin, Longevity kommen | Starker Rücken 50+, Knochen-stark, Bewegte Pause | „Beweglichkeit ist keine Frage des Geschlechts, aber eine des Alters.“ *(bewusst sachlich, ohne Yoga-Klischee)* | Osteoporose, Rheuma & Arthrose, Bluthochdruck, Cholesterin, Longevity |
-| **⑤ Die Longevity-Neugierigen** | 45–60, Biohacking-affin, messen gern, wollen „in 20 Jahren noch beweglich sein“ | Knochen-stark, Morgenroutine | „Das unterschätzteste Longevity-Werkzeug hat keinen Akku.“ | Longevity-Kongress, Gesundheitsmarker, Laborwerte |
+| **⑤ Die Longevity-Neugierigen** | 45–60, Biohacking-affin, messen gern, wollen „in 20 Jahren noch beweglich sein“ | Knochen-stark, Morgenroutine | „Das unterschätzteste Longevity-Werkzeug hat keinen Akku.“ | Longevity-Kongress (18.12.), Gesundheitsmarker, Laborwerte |
 | **⑥ Die Schenkenden** | Töchter und Söhne (30–50), die ihrer Mutter etwas Gutes tun wollen | Geschenk-Mitgliedschaft | „Schenk ihr Zeit, die nur ihr gehört.“ | Weihnachten, Muttertag, Viktilabs-Checkout („Als Geschenk“) |
 
 ### Was wir bewusst NICHT tun
@@ -141,29 +141,39 @@ Aus Michaels Vorgabe (Fachbeitrag, App mehrfach erwähnen, Kaufaufruf im Skript)
 
 ### 4c · Kongresskalender: Kandidaten Oktober 2026 bis Januar 2027
 
-> **Die Terminliste steht nicht in diesem oeffentlichen Repo.**
-> Quelle: Tabelle *Kongresse_Kampagnen_Kollegen*, Blatt *Kongresse 2026/2027*.
-> Dort sind rund zwanzig Kongresse und Masterclasses nach Passung bewertet
-> (sehr gut / gut / nur mit Vorsicht) und jeweils einem Ring und einer Serie zugeordnet.
+Aus dem Blatt *Kongresse 2026/2027*, bewertet nach Passung (●●● sehr gut · ●● gut · ● nur mit Vorsicht). **Keine feste Zuordnung**, das ist die Grundlage für das gemeinsame Meeting nach dem Launch.
 
-**Die Bewertungslogik, die dabei angewendet wird:**
+| Datum | Portal | Kongress / MC | Passung | Ring | Serie / Hinweis |
+|---|---|---|---|---|---|
+| 02.10. | Medumio | Pflege-Kongress | ●●● | ② | Sanft starten, Besser schlafen |
+| 06.10. | Medumio | MC Nährstoffe für Senioren | ●● | Kern | Sanft starten, Starker Rücken |
+| 09.10. | Medumio | Darm & Emotionen | ●● | Kern | Nervensystem-Reset |
+| 16.10. | Medumio | Wechseljahre | ●●● | Kern, ① | Nervensystem-Reset jetzt, *Balance im Wandel* als Nebel-Teaser |
+| 16.10. | Veda360 | Hochsensibel | ●●● | ③ | Nervensystem-Reset, Meditation (Nebel) |
+| 20.10. | Medumio | MC Nährstoffe für Frauen | ●● | ① | Nervensystem-Reset |
+| **23.10.** | Medumio | **Cortisol senken** | ●●● | Kern | **Wunsch-Erstplatzierung:** Nervensystem-Reset, Besser schlafen |
+| 30.10. | Medumio | Emotionales Essen | ●● | Kern | Atem-Video als Brücke |
+| 30.10. | Medumio | Hormone & Stoffwechsel (Light) | ●● | ① | Nervensystem-Reset |
+| 06.11. | Veda360 | Mit Ayurveda durch die Menopause | ●●● | Kern, ③ | Anderes Portal, Tonlage Innenwelt |
+| 13.11. | Medumio | Osteoporose | ●●● | Kern, ④ | Starker Rücken, Knochen-stark (Nebel) |
+| 20.11. | Medumio | **Beckenboden** | ●● | Kern | Serie erst in Welle 2 → **Wartelisten-Kampagne** (siehe unten) |
+| 20.11. | Medumio | Rheuma & Arthrose | ● | ④ | Nur Praxisziele, HWG streng |
+| 27.11. | Veda360 | Wechseljahre neu verstehen | ●●● | Kern, ③ | |
+| 04.12. | Medumio | Die neue Erschöpfungspandemie | ●●● | ② | Besser schlafen, Audio-only |
+| 04.12. | Medumio | Gehirn- und Nervengesundheit | ●● | Kern | Nervensystem-Reset *(möglicherweise identisch mit dem geplanten Nervensystem-Kongress von Mareen? Klären)* |
+| 04.12. | Veda360 | Ängste & Panikattacken (Light) | ●● | ③ | Ruhe-Formate, sehr behutsam |
+| **08.12.** | Medumio | **MC Schlaf (NEU)** | ●●● | Kern, ② | **Besser schlafen**, passt perfekt |
+| 12.12. | Medumio | MC Nährstoffe bei Osteoporose | ●● | ④ | Starker Rücken |
+| 18.12. | Medumio | Longevity | ●●● | ⑤ | Knochen-stark, Morgenroutine |
+| 22.01.27 | Veda360 | Ängste & Panikattacken | ●● | ③ | Meditation lernen (falls produziert) |
+| 26.01.27 | Medumio | MC Wechseljahre | ●●● | Kern | *Balance im Wandel*, falls produziert |
 
-| Kriterium | Frage |
-|---|---|
-| Passung | Trifft das Kongressthema eine vorhandene Serie, oder nur ein verwandtes Gefuehl? |
-| Ring | Welchen Ring aus §2 spricht dieses Publikum an? |
-| Serie | Welche Serie ist der natuerliche Einstieg — und ist sie schon produziert? |
-| Portal | Medumio, Veda360 oder CURIVO — und damit welche Tonlage? |
-| HWG-Risiko | Laesst sich das Thema ohne Wirkversprechen bespielen? |
+Nicht empfohlen: CURIVO ME-CFS (13.11.), Long-Covid-Summits (siehe §2).
 
-**Ausgeschlossen:** ME/CFS und Long-Covid-Formate. Bei Belastungsintoleranz kann
-Aktivierung schaden, und das HWG-Risiko ist hoch. Bei Rheuma, Arthrose und Parkinson
-nur Praxisziele wie Beweglichkeit und Stand, nie Beschwerden.
-
-**Sonderfall Kongresse zu Themen aus Welle 2:** Wenn die passende Serie erst mit Welle 2
-kommt, ist das trotzdem eine Chance — Expertenvideo zum Wissensteil, Kaufaufruf auf
-Welle 1 plus **Fruehzugang zur kommenden Serie**. Die Warteliste zeigt die Nachfrage und
-liefert ein Argument fuer den Business Case.
+**Sonderfall Beckenboden-Kongress (20.11.):** Die Serie gibt es erst mit Welle 2. Das ist trotzdem eine Chance:
+- Simone spricht im Expertenvideo über **Beckenboden und Atem** (Wissen, keine Beschwerdeversprechen)
+- Kaufaufruf: Andavita jetzt mit Welle 1 starten **+ Frühzugang zur Beckenboden-Serie**, sobald sie erscheint
+- Die Warteliste zeigt die Nachfrage und liefert **ein Argument für den Business Case**
 
 ---
 
@@ -208,25 +218,22 @@ Wer welchen Kongress besucht hat, verrät, welche Serie passt:
 
 ## 6 · Masterclasses: das Datenargument
 
-> **Die Kennzahlen stehen nicht in diesem oeffentlichen Repo.**
-> Quelle: Tabelle *Kongresse_Kampagnen_Kollegen*, Blatt *MC Auswertung*.
+Aus dem Blatt *MC Auswertung*:
 
-Der Befund in Worten: Masterclasses erreichen regelmaessig vierstellige
-Teilnehmerzahlen, und **entspannungsnahe Themen wandeln deutlich besser um als der
-Durchschnitt**. Das ist das Argument dafuer, die erste Andavita-Masterclass im
-Entspannungsfeld anzusiedeln.
+| Kennzahl | Wert |
+|---|---|
+| Ø Teilnehmende pro MC | ~3.350 |
+| Ø Conversion Premium-Zugang | ~5,4 % |
+| **Hypnose (Veda360)** | **13,3 %**, bester Wert |
+| Wechseljahre | 5,9 % |
 
-*Einschraenkung: Die vorliegenden Werte gelten fuer den Premium-Zugang zu Kongressen,
-also ein anderes Produkt zu einem anderen Preis. Sie sind ein Richtwert, keine Prognose
-fuer Andavita.*
+**Rechenbeispiel (Hypothese, nicht Prognose):** Eine Entspannungs-MC mit 3.350 Teilnehmenden bei 5 % Umwandlung ergibt **~170 neue Mitglieder**. Bei entspannungsnahen Themen wie Hypnose liegt die Umwandlung deutlich höher.
+*Einschränkung: Die Werte gelten für den Premium-Zugang zu Kongressen, also ein anderes Produkt zu einem anderen Preis. Sie sind ein Richtwert, keine Garantie.*
 
 **Empfehlung für die Kommunikation:**
-- **Erste Andavita-MC:** „Zur Ruhe kommen: 3 Wege über Atem, Körper und Abend" (Simone),
-  zuerst auf **Veda360**, weil dort das beste Conversion-Umfeld ist
-- **Zweite MC:** „Meditation für Menschen, die glauben, nicht meditieren zu können",
-  sobald *Meditation lernen* produziert ist
-- MCs mit echten Expertinnen und vorhandenem Material, KI nur für Schnitt, Untertitel
-  und Musik (siehe 10 · Compliance-Leitplanken — noch nicht im Repo)
+- **Erste Andavita-MC:** „Zur Ruhe kommen: 3 Wege über Atem, Körper und Abend“ (Simone), zuerst auf **Veda360**, weil dort das beste Conversion-Umfeld ist
+- **Zweite MC:** „Meditation für Menschen, die glauben, nicht meditieren zu können“, sobald *Meditation lernen* produziert ist
+- MCs mit echten Expertinnen und vorhandenem Material, KI nur für Schnitt, Untertitel und Musik (siehe 10 · Compliance-Leitplanken — noch nicht im Repo)
 
 ---
 
@@ -268,5 +275,5 @@ fuer Andavita.*
 | 6 | Segment-Listen aus Kongress-Teilnahmen ziehen (§5b) | Newsletter-Tool |
 | 7 | Launch-Sequenz texten + HWG-Check | #2 |
 | 8 | Kongress-Kandidaten (§4c) ins gemeinsame Meeting mitnehmen | App steht |
-| 9 | Wartelisten-Kampagne zum Beckenboden-Kongress vorbereiten | Launch vor dem Kongresstermin? |
+| 9 | Beckenboden-Wartelisten-Kampagne für den 20.11. vorbereiten | Launch vor 20.11.? |
 | 10 | Erste Andavita-MC auf Veda360 vorschlagen | Entscheidung Masterclasses |

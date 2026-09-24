@@ -164,10 +164,10 @@ persönliche Tonalität) · [YogaEasy-App](https://www.yogaeasy.de/artikel/die-n
 
 ## Mitarbeit
 
-Dieses Repo ist **öffentlich**, weil wir in der Gruppe daran arbeiten. Daraus folgt:
+Dieses Repo ist **privat**. Zugriff bekommt, wer eingeladen wird. Daraus folgt:
 
-- **Keine Zugangsdaten, keine Vertragsunterlagen, keine personenbezogenen internen
-  Dokumente** einstellen.
+- Interne Zahlen, Kongresstermine und Namen dürfen hier stehen.
+- **Zugangsdaten und Schlüssel trotzdem nie** — die gehören in keinen Git-Verlauf.
 - **Nicht blind committen:** Build-Verzeichnisse, `node_modules`, lokale Android-Pfade,
   APK- und Simulator-Builds, große Rohvideos. Exporte und Medien bei Bedarf separat
   ausliefern.
