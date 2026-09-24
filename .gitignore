@@ -9,3 +9,8 @@ redaktion/
 
 # Grosse Exportpakete - bei Bedarf separat ausliefern, nicht versionieren
 exports/
+
+# Astro-Grundgeruest (Phase 1, Website-Neubau)
+node_modules/
+dist-astro/
+.astro/
