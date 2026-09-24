@@ -2,8 +2,8 @@
 
 > **Stand: 24.09.2026** · Zusammengesetzt aus dem bestehenden Konzept
 > ([CLAUDE-UEBERGABE.md](../../CLAUDE-UEBERGABE.md), [PLATTFORM-KONZEPT.md](../../PLATTFORM-KONZEPT.md),
-> [docs/marke.md](../marke.md), [docs/design.md](../design.md)) und aus Kornelias
-> Kommunikationsstrategie.
+> [docs/marke.md](../marke.md), [docs/design.md](../design.md)), aus Kornelias
+> Kommunikationsstrategie und aus Anielkas Produkt- und Umsetzungsideen.
 >
 > Dies ist ein **Gerüst zum Weiterbauen**, keine Beschlusslage. Was entschieden ist,
 > steht als entschieden da. Was offen ist, ist als offen markiert.
@@ -102,25 +102,78 @@ Themenfilter sind keine Diagnose.
 
 ## 5 · Was wir daraus machen können
 
-Das Abo ist der Kern. Um ihn herum liegen Erlösquellen, die die Marke ohnehin tragen soll —
-die Markenanmeldung ist bereits auf diese Klassen ausgelegt (siehe [docs/marke.md](../marke.md)).
+Das Abo ist der Kern. Darum herum liegt ein Sortiment, das die Marke ohnehin tragen soll —
+die Markenanmeldung ist auf genau diese Klassen ausgelegt (siehe [docs/marke.md](../marke.md)).
 
-| Produkt | Stand | Anmerkung |
+**Der Leitgedanke:** Produkte erscheinen dort, wo sie zur gerade gemachten Einheit passen,
+nicht in einem separaten Shop. Wir gewinnen nicht über den Preis, sondern über Passung,
+Vertrauen und Mitgliedervorteile. Wenn die Produktintegration wie Werbung wirkt statt wie
+Begleitung, leidet das Vertrauen in die Kurse — dann ist der Schaden größer als der Umsatz.
+
+**Ausgearbeitet von Anielka in [docs/produkte/](../produkte/)** — mit Umsetzungsweg,
+regulatorischen Auflagen und Priorität je Produkt. Hier nur das Gerüst:
+
+### Das erste Produkt
+
+**Magnesium-Abendformel** (Magnesium + Melisse/Passionsblume). Sie deckt drei der fünf
+Launch-Serien ab — *Besser schlafen*, *Nervensystem-Reset*, *Starker Rücken 50+* —
+ist abo-fähig und hat zugelassene Claims. Dazu als Bündel das **Schlaf-Set**:
+Abendformel + Abendtee + Augenkissen, direkt unter der Serie *Besser schlafen*.
+
+### Die Kategorien
+
+| Kategorie | Zum Launch | Später |
 |---|---|---|
-| **Mitgliedschaft** 1 / 6 / 12 Monate | Preise stehen, Checkout fehlt | 14,90 € · 71,40 € · 99 € |
-| **Geschenk-Mitgliedschaft** | Idee | Ring ⑥; Weihnachten, Muttertag, Viktilabs-Checkout |
-| **Gratismonat über Kongresse** | Idee, Bonus noch nicht festgelegt | der geplante Haupteinstieg |
-| **Masterclasses** | Idee | eigenes Format mit Nina/Simone |
-| **Expertenvideos** in Kongressen | Skript-Gerüst steht | Vermarktungsbeiträge, keine Kursvideos |
-| **Zubehör**: Matten, Blöcke, Gurte | Markenklasse vorgesehen | Kl. 28 |
-| **Taschen** | Markenklasse vorgesehen | Kl. 18 |
-| **Bekleidung** | Markenklasse vorgesehen | Kl. 25 |
-| **Nahrungsergänzung** | Markenklasse vorgesehen | Kl. 5 — Viktilabs-Nähe |
-| **Ätherische Öle, Körperpflege** | Markenklasse vorgesehen | Kl. 3 |
-| **Magazin / SEO-Artikel** | Idee | je Talk-Video ein Artikel als Gegenstück |
+| **Nahrungsergänzung** (Kl. 5) | Magnesium-Abendformel | D3/K2+Calcium zu *Knochen-stark*, B-Komplex zur Morgenroutine, Omega-3, Kollagen |
+| **Tee** (Lebensmittel) | Abendtee | Ruhetee, Morgentee, wärmender Tee, Ritual-Pulver |
+| **Yoga-Zubehör** (Kl. 28) | Starter-Set Korkblock + Gurt, Augenkissen | Meditationskissen, Pilates-Ball, Decke, Matte |
+| **Pflege & Kosmetik** (Kl. 3) | — | Kissenspray, Magnesium-Öl, Badesalz, Balsam, Roll-on |
+| **Textilien** (Kl. 25) | — | Grip-Socken (größenunkritisch), Loungewear, Schlafmaske |
+| **Digitale Produkte** | — | Premium-Programme, Masterclasses, Workbooks, Retreats |
+| **Bündel und Abos** | Schlaf-Set, Jahresabo-Bonus | Kombi-Abo Mitgliedschaft + Supplement, Monatsbox |
 
-**Noch nichts davon außer der Mitgliedschaft ist beschlossen.** Die Tabelle sagt, was
-die Marke tragen *könnte*, nicht was gebaut wird.
+**Tee ist kein Hero-Produkt.** Er passt zum Ritual und ist regulatorisch einfach, hat aber
+niedrige Marge und starken Wettbewerb. Begleiter, nicht Zugpferd.
+
+### Wie die Nahrungsergänzung entsteht
+
+Als **Andavita-Edition** gemeinsam mit Viktilabs — Bestellungen gebündelt, damit Rohware
+und Mindestmengen geteilt werden. In zwei Stufen: erst Test in Andavita-Umverpackung,
+dann eigene Etiketten für die Produkte mit nachgewiesener Nachfrage.
+
+Vor der zweiten Stufe zu klären: NEM-Anzeige beim BVL, Kennzeichnung nach LMIV,
+Etiketten-Mindestmengen, getrennte Bestände je Marke, PPWR/LUCID für die Verpackung.
+
+### Warum das trägt
+
+Im deutschsprachigen Raum verbindet **niemand** App und eigene Produkte für die
+Lebensmitte. Alo macht es international, YogaEasy und Down Dog haben gar keine Produkte.
+Und anders als ein Neueinsteiger haben wir **Lieferkette und Produktion bereits im Haus**.
+
+Aus den Schwächen der anderen gelernt: klare Einstufung der Schwierigkeit und
+**Wiedergabe auf dem Fernseher** — für die Zielgruppe zwei echte Argumente.
+
+### Rollout
+
+| Phase | Wann | Was |
+|---|---|---|
+| 1 | Launch | Magnesium-Abendformel, Abendtee, Starter-Set, Augenkissen, Schlaf-Set, Jahresabo-Bonus |
+| 2 | Monat 2–6 | D3/K2, Meditationskissen, Pilates-Ball, weitere Tees, Kissenspray, Grip-Socken, Start Krankenkassen-Zertifizierung |
+| 3 | ab Monat 6 | Trend-Supplements, Kosmetiklinie, Matte und Textilien, Retreats, B2B, Monatsbox |
+
+### Kooperationen
+
+**Krankenkassen** (Präventionskurse nach § 20 SGB V, Zertifizierung über die ZPP) und
+**Physiotherapeuten** bringen für die Zielgruppe die meiste Glaubwürdigkeit.
+Dazu Yogastudios, betriebliches Gesundheitsmanagement, Retreat-Anbieter.
+
+### Was Kunden hält
+
+Der **zweite Kauf innerhalb von 60 Tagen** ist der entscheidende Moment. Darauf zielen:
+30-Tage-Onboarding, Check-in nach drei bis vier Wochen, Nachkauf-Erinnerung **nach
+Verbrauch statt nach Kaufdatum**, Pause statt Kündigung, Winback mit neuem Anlass.
+
+**Nichts davon außer der Mitgliedschaft ist beschlossen.**
 
 ---
 
