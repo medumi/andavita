@@ -35,6 +35,8 @@ Wer neu dazukommt, liest in dieser Reihenfolge:
 
 | Datei | Inhalt |
 |---|---|
+| **[docs/skelett/](docs/skelett/)** | **Das Skelett: was wir machen und wie** — Einstieg fuer neue Beteiligte |
+| **[docs/kommunikation/](docs/kommunikation/)** | Kommunikationsstrategie: Zielgruppen-Ringe, USP, Kanaele, Skript-Geruest |
 | **[CLAUDE-UEBERGABE.md](CLAUDE-UEBERGABE.md)** | Vollständiger technischer Gesamtstand — die belastbarste Quelle |
 | **[OFFENE-PUNKTE.md](OFFENE-PUNKTE.md)** | Ausdrücklich vertagte Entscheidungen |
 | **[PLATTFORM-KONZEPT.md](PLATTFORM-KONZEPT.md)** | Architektur, Mitgliedschaften, Videoverwaltung, Filter (17.09.) |
