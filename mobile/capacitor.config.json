@@ -1,9 +1,0 @@
-{
-  "appId": "com.andavita.preview",
-  "appName": "Andavita",
-  "webDir": "www",
-  "backgroundColor": "#FBFAF7",
-  "ios": {
-    "contentInset": "never"
-  }
-}
